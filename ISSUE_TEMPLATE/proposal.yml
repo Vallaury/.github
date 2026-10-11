@@ -1,0 +1,30 @@
+name: Proporre una modifica / Suggest a change
+description: Un'idea per migliorare un'app o un pacchetto.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Le funzioni del sito (orario, compiti, appunti) non si propongono qui: scrivi a [aiuto@vallaury.it](mailto:aiuto@vallaury.it). *English is welcome.*
+  - type: textarea
+    id: problem
+    attributes:
+      label: Che problema vuoi risolvere
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Cosa proponi
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative considerate
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Vuoi lavorarci tu?
+      options:
+        - label: Sì, posso preparare una pull request.

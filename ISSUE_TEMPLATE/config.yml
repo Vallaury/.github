@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Vulnerabilità di sicurezza / Security vulnerability
+    url: https://github.com/Vallaury/.github/blob/main/SECURITY.md
+    about: Non aprire una issue pubblica, segui la politica di sicurezza.
+  - name: Domande e idee / Questions and ideas
+    url: https://github.com/orgs/Vallaury/discussions
+    about: Per domande e discussioni usa le Discussioni dell'organizzazione.
+  - name: Aiuto con il servizio / Help with the service
+    url: mailto:aiuto@vallaury.it
+    about: Accesso, orario, compiti, appunti.

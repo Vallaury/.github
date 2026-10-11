@@ -67,7 +67,9 @@ Vulnerabilità: [security@vallaury.it](mailto:security@vallaury.it) o la segnala
 Privacy e dati personali: [privacy@vallaury.it](mailto:privacy@vallaury.it)<br>
 Accessibilità: [accessibilita@vallaury.it](mailto:accessibilita@vallaury.it)
 
-Se Vallaury ti è utile, puoi [offrirci un caffè su Ko-fi](https://ko-fi.com/vallaury): aiuta a pagare il server e a dedicare più tempo al progetto.
+Se Vallaury ti è utile, puoi offrirci un caffè: aiuta a pagare il server e a dedicare più tempo al progetto.
+
+<a href="https://ko-fi.com/H3H528LEC8"><img src="kofi.png" alt="Sostieni Vallaury su Ko-fi" height="44"></a>
 
 <br>
 

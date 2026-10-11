@@ -1,0 +1,22 @@
+[
+  {"name": "bug", "color": "d73a4a", "description": "Qualcosa non funziona"},
+  {"name": "enhancement", "color": "1f7a5c", "description": "Nuova funzione o miglioramento"},
+  {"name": "documentation", "color": "0075ca", "description": "Documentazione e testi"},
+  {"name": "question", "color": "d876e3", "description": "Una domanda"},
+  {"name": "good first issue", "color": "7057ff", "description": "Adatta a chi inizia"},
+  {"name": "help wanted", "color": "008672", "description": "Serve una mano"},
+  {"name": "needs-info", "color": "fbca04", "description": "Mancano informazioni per procedere"},
+  {"name": "priority: high", "color": "b60205", "description": "Da affrontare per prima"},
+  {"name": "security", "color": "ee0701", "description": "Riguarda la sicurezza"},
+  {"name": "privacy", "color": "5319e7", "description": "Riguarda i dati personali"},
+  {"name": "dependencies", "color": "0366d6", "description": "Aggiornamento di dipendenze"},
+  {"name": "github-actions", "color": "000000", "description": "Workflow e CI"},
+  {"name": "packaging", "color": "c5def5", "description": "Pacchetti e canali di distribuzione"},
+  {"name": "windows", "color": "0078d4", "description": "Solo Windows"},
+  {"name": "macos", "color": "6e7781", "description": "Solo macOS"},
+  {"name": "linux", "color": "fcc624", "description": "Solo Linux"},
+  {"name": "android", "color": "3ddc84", "description": "Solo Android"},
+  {"name": "duplicate", "color": "cfd3d7", "description": "Già segnalata"},
+  {"name": "invalid", "color": "e4e669", "description": "Non valida"},
+  {"name": "wontfix", "color": "ffffff", "description": "Non verrà affrontata"}
+]

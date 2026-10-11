@@ -1,0 +1,44 @@
+name: Segnalare un errore / Report a bug
+description: Qualcosa non funziona come dovrebbe in un'app o in un pacchetto.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie. Non scrivere dati personali. Per una vulnerabilità non usare questo modulo: vedi la [politica di sicurezza](https://github.com/Vallaury/.github/blob/main/SECURITY.md). *English is welcome.*
+  - type: textarea
+    id: what
+    attributes:
+      label: Cosa succede
+      description: Descrivi l'errore e cosa ti aspettavi.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Come riprodurlo
+      placeholder: |
+        1. Apri...
+        2. Premi...
+        3. Vedi...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Versione dell'app o del pacchetto
+      placeholder: "0.1.2"
+    validations:
+      required: true
+  - type: dropdown
+    id: system
+    attributes:
+      label: Sistema
+      options: [Windows, macOS, Linux, Android, Altro]
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Altro
+      description: Schermate, messaggi di errore, distribuzione Linux, come l'hai installato.
